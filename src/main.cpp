@@ -1,4 +1,4 @@
-#include <M5StickC.h>
+#include <M5StickCPlus.h>
 #include "Slot.h"
 
 #ifndef _countof
